@@ -7,4 +7,6 @@ The lfsr consists of following components:<br/>
 
 LFSRs find applications in various fields such as cryptography, error detection, digital signal processing, and even in generating test patterns for digital circuits. They're particularly useful because they're simple to implement in hardware and efficient to run in software.
 
-<img src="https://drive.google.com/file/d/1S_Jdqu73cZK8hkMEuRSn8HucFk4gcMLY/view?usp=drive_link" alt="Application" width="300px" height="400px">  
+![img1](Lfsr1.png)
+![img2](Lfsr2.png)
+
